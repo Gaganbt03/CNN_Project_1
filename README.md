@@ -124,8 +124,8 @@ Test Accuracy
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Gaganbt03/cnn-cifar10-image-classification.git
-cd cnn-cifar10-image-classification
+git clone https://github.com/Gaganbt03/CNN_Project_1.git
+cd CNN_Project_1
 ```
 
 ### 2. Install Dependencies
@@ -183,16 +183,6 @@ CNN-based image classification can be used in:
 * Use batch normalization.
 * Apply transfer learning using pretrained models.
 * Improve classification accuracy.
-
-## Project Structure
-
-```text
-cnn-cifar10-image-classification/
-│
-├── README.md
-├── CNN_CIFAR10_Classification.ipynb
-└── requirements.txt
-```
 
 ## Author
 
